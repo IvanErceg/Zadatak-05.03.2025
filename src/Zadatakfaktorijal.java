@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Zadatak {
+public class Zadatakfaktorijal {
 
 
     public static long factorial(int broj) {

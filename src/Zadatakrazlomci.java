@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Zadatak2 {
+public class Zadatakrazlomci {
     public static void main(String[] args) {
         //Dva razlomka i četri matematičke operacije
         Scanner sc=new Scanner(System.in);
